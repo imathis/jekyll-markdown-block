@@ -2,6 +2,11 @@
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-markdown-block.png)](http://badge.fury.io/rb/jekyll-markdown-block) [![Build Status](https://travis-ci.org/imathis/jekyll-markdown-block.png)](https://travis-ci.org/imathis/jekyll-markdown-block)
 
+Why? Because you should be able to:
+
+- Write markdown anywhere.
+- {% include %} markdown files anywhere.
+
 ## Installation
 
 Add this line to your application's Gemfile under
