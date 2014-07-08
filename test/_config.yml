@@ -3,3 +3,5 @@ markdown: redcarpet
 source: source
 destination: site
 plugins: source/_plugins
+gems:
+  - jekyll-markdown-block
